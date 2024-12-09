@@ -1,7 +1,8 @@
 ---
-title: Privacy Policy
 layout: default
 ---
+
+# Privacy Policy
 
 November 11, 2024
 
