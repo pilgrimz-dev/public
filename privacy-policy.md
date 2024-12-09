@@ -1,6 +1,9 @@
-# Pilgrimz Privacy Policy
+---
+title: Privacy Policy
+layout: default
+---
 
-**November 11, 2024**{style="text-align: right; display: block;"}
+November 11, 2024
 
 ## Introduction
 
